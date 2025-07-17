@@ -1,1 +1,9 @@
+Artificial Intelligence and Machine Learning
 
+Machine learning is a subset of artificial intelligence that focuses on algorithms that can learn and make decisions from data. It has three main types: supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning uses labeled data to train models. Common applications include image classification, spam detection, and recommendation systems.
+
+Unsupervised learning finds patterns in data without labels. It's used for clustering, dimensionality reduction, and anomaly detection.
+
+Reinforcement learning learns through interaction with an environment, receiving rewards or penalties for actions.

@@ -1,0 +1,16 @@
+TechCorp Company Information
+
+Founded: 2010
+Headquarters: San Francisco, CA
+Employees: 5,000+
+Industry: Software Technology
+
+Products:
+- CloudSync: Cloud storage solution
+- DataAnalyzer: Business intelligence platform
+- SecureVault: Cybersecurity suite
+
+Recent News:
+- Launched new AI-powered features in Q3 2024
+- Expanded to European markets
+- Invested $50M in R&D for machine learning capabilities
