@@ -17,7 +17,7 @@ from flask import Flask, request, jsonify, render_template_string
 # Configuration
 @dataclass
 class Config:
-    GEMINI_API_KEY: str = "AIzaSyDxuM1K2z4NTcMxAqXBrBLECRg0pSEFfw8"
+    GEMINI_API_KEY: str = "////////////////////"
     EMBEDDING_MODEL: str = "all-MiniLM-L6-v2"
     CHUNK_SIZE: int = 500
     CHUNK_OVERLAP: int = 50
